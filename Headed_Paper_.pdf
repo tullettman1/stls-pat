@@ -1,0 +1,7 @@
+@echo off
+echo.
+echo  STLS PAT Certificate Generator
+echo  Starting...
+echo.
+python app.py
+pause
